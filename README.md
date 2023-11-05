@@ -1,6 +1,6 @@
 # ArtFlare OpenAI API Integration
 
-Bu GitHub deposu, OpenAI'nin DALL-E 2 API'sini kullanarak metin ve yapay zeka yeteneklerini kullanmaktadır farklı projelerde veya uygulamalar da kullanmak için hazır Google ad mods entegrasyonu da bulunmaktadır.
+Bu GitHub deposu, OpenAI'nin DALL-E 2 API'sini kullanarak metin ve yapay zeka yeteneklerini kullanmaktadır. Ayrıca Farklı projelerde veya uygulamalar da kullanmak için hazır Google ad mods entegrasyonu da bulunmaktadır.
 
 <img src="https://github.com/omeryasironal/ArtFlare_OpenAI_API_Integration/assets/115497334/456e9b67-e139-4d44-b5ca-ec70c0b34e45" alt="Açıklama metni" width="500">
 
