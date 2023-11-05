@@ -3,7 +3,7 @@
 Bu GitHub deposu, OpenAI'nin metin ve yapay zeka yeteneklerini kullanarak farklı projelerde uygulamalar oluşturmak isteyen geliştiricilere yönelik bir kaynaktır. Bu depo, OpenAI API'sini kullanarak metin tabanlı görevlerde model eğitimi, metin oluşturma, dil çevirisi ve daha fazlasını içeren uygulamaları oluşturmayı kolaylaştırmak için kaynak kodları ve örnekler içerir.
 
 ![Simulator Screensh![Simulator Screenshot - iPhone 13 mini - 2023-11-05 at 14 07 13](https://github.com/omeryasironal/ArtFlare_OpenAI_API_Integration/assets/115497334/8c18bd5e-8901-4739-adf5-a609b5464f81)
-ot - iPhone 13 mini - 2023-11-05 at 14 07 10](https://github.com/omeryasironal/ArtFlare_OpenAI_API_Integration/assets/115497334/915c79ff-867b-402e-9348-013df640fdc7)
+![Uploading Simulator Screenshot - iPhone 13 mini - 2023-11-05 at 14.10.52.png…]()
 
 ## Özellikler
 
