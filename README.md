@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 13 mini - 2023-11-05 at 14 10 52](https://github.com/omeryasironal/ArtFlare_OpenAI_API_Integration/assets/115497334/14c9a172-ec2e-43fe-b757-936261fec542)# ArtFlare OpenAI API Integration
+# ArtFlare OpenAI API Integration
 
 Bu GitHub deposu, OpenAI'nin metin ve yapay zeka yeteneklerini kullanarak farklı projelerde uygulamalar oluşturmak isteyen geliştiricilere yönelik bir kaynaktır. Bu depo, OpenAI API'sini kullanarak metin tabanlı görevlerde model eğitimi, metin oluşturma, dil çevirisi ve daha fazlasını içeren uygulamaları oluşturmayı kolaylaştırmak için kaynak kodları ve örnekler içerir.
 
