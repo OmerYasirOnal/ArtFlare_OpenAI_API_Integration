@@ -2,9 +2,9 @@
 
 Bu GitHub deposu, OpenAI'nin DALL-E 2 API'sini kullanarak metin ve yapay zeka yeteneklerini kullanmaktadır farklı projelerde veya uygulamalar da kullanmak için hazır Google ad mods entegrasyonu da bulunmaktadır.
 
-![Simulator Screenshot - iPhone 13 mini - 2023-11-05 at 14 10 52](https://github.com/omeryasironal/ArtFlare_OpenAI_API_Integration/assets/115497334/456e9b67-e139-4d44-b5ca-ec70c0b34e45)
+<img src="https://github.com/omeryasironal/ArtFlare_OpenAI_API_Integration/assets/115497334/456e9b67-e139-4d44-b5ca-ec70c0b34e45" alt="Açıklama metni" width="500">
 
-![Simulator Screenshot - iPhone 13 mini - 2023-11-05 at 14 11 01](https://github.com/omeryasironal/ArtFlare_OpenAI_API_Integration/assets/115497334/f794a7f4-66b7-4c73-b8db-5c299e6095c2)
+<img src="https://github.com/omeryasironal/ArtFlare_OpenAI_API_Integration/assets/115497334/f794a7f4-66b7-4c73-b8db-5c299e6095c2" alt="Açıklama metni" width="500">
 
 
 ## Özellikler
